@@ -1,0 +1,15 @@
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceInfrastructure.deps.json
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceInfrastructure.runtimeconfig.json
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceInfrastructure.runtimeconfig.dev.json
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceInfrastructure.dll
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceInfrastructure.pdb
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.csproj.AssemblyReference.cache
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.AssemblyInfo.cs
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.dll
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.pdb
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.genruntimeconfig.cache
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceCore.dll
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\bin\Debug\netcoreapp3.1\EcommerceCore.pdb
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceInfrastructure\obj\Debug\netcoreapp3.1\EcommerceInfrastructure.csproj.CopyComplete

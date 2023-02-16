@@ -1,0 +1,57 @@
+﻿{
+    "Id": "e29844c5-10eb-44a5-a0a9-b922b1cdec9b",
+    "FirstName": "Admin",
+    "LastName": "Admin",
+    "Email": "admin@gmail.com",
+    "Phone": "08027313450",
+    "Password": "7676aaafb027c825bd9abab78b234070e702752f625b752e55e55b48e607e358",
+    "IsActive": true,
+    "Avatar": "default.jpg",
+    "Cars": [
+        {
+            "Id": "ff577c0d-9306-4efa-9b21-1ce5a69cbe39",
+            "Model": "Suv",
+            "YearOfMan": "2020",
+            "PlateNumber": "FJK-164",
+            "ChasisNumber": "348105",
+            "Color": "brown",
+            "TypeOfCar": "Toyota Corolla",
+            "Mileage": 28978900,
+            "Price": 3500,
+            "UnitOfPrice": "hour",
+            
+            "Images": [
+                {
+                    "Id": "7dfa1ecc-2230-444e-9c7e-955119e42ff5",
+                    "IsFeature": true,
+                    "ImageUrl": "https://res.cloudinary.com/djrjrb0a4/image/upload/v1651504339/Suv3_wghcyn.jpg",
+                    "CreatedAt": "2016-09-02"
+                },
+                {
+                    "Id": "7f0529a0-209d-4778-a34f-5344787135c3",
+                    "IsFeature": false,
+                    "ImageUrl": "https://res.cloudinary.com/djrjrb0a4/image/upload/v1651504337/Lexus2_tjjmwl.jpg",
+                    "CreatedAt": "2016-08-02"
+                }
+            ],
+            "Ratings": [
+                {
+                    "Id": "8a74daf6-037a-44c5-a1dc-e48f53cf9523",
+                    "Ratings": 4,
+                    "CreatedAt": "2019-04-06"
+                },
+                {
+                    "Id": "7746fa0f-9505-4833-a06d-d10f6a66327f",
+                    "Ratings": 2,
+                    "CreatedAt": "2015-06-20"
+                },
+                {
+                    "Id": "7adef641-deaf-4a72-8461-315f7a4411b4",
+                    "Ratings": 4,
+                    "CreatedAt": "2015-10-03"
+                }
+            ]
+
+        }
+    ]
+}

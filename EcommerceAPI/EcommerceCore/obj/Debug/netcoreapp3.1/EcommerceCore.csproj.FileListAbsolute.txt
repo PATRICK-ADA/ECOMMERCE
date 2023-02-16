@@ -1,0 +1,9 @@
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\bin\Debug\netcoreapp3.1\EcommerceCore.deps.json
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\bin\Debug\netcoreapp3.1\EcommerceCore.dll
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\bin\Debug\netcoreapp3.1\EcommerceCore.pdb
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.AssemblyInfo.cs
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.csproj.CoreCompileInputs.cache
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.dll
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.pdb
+C:\Users\craft\source\repos\EcommerceAPI\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.csproj.AssemblyReference.cache
